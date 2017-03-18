@@ -2,7 +2,7 @@
   "require" : {
     "silex/silex": "~1.1",
     "monolog/monolog": "~1.7",
-	"ext-mysql": "*",
+	"ext-mysqli": "*",
 	"php": ">=5.2.4"
   },
   "require-dev": {
